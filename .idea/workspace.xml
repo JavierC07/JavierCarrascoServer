@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="42925cc3-0ea5-4516-8b2d-6fe9ca17b8df" name="Default Changelist" comment="" />
+    <list default="true" id="527afda5-3b24-40ad-a896-b3cb04868b09" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,13 +16,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1WqAvkdqkKqXwOp4I5t40tHwBVo" />
+  <component name="ProjectId" id="1Wq3yWnbvV3BsFFQRRBCb66mVve" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JavierCarrascoServer" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -36,17 +38,20 @@
       </list>
     </option>
   </component>
+  <component name="ServiceViewManager">
+    <option name="showServicesTree" value="false" />
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="42925cc3-0ea5-4516-8b2d-6fe9ca17b8df" name="Default Changelist" comment="" />
-      <created>1579866983752</created>
+      <changelist id="527afda5-3b24-40ad-a896-b3cb04868b09" name="Default Changelist" comment="" />
+      <created>1579863552525</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1579866983752</updated>
-      <workItem from="1579866988720" duration="628000" />
+      <updated>1579863552525</updated>
+      <workItem from="1579863556146" duration="2605000" />
     </task>
     <servers />
   </component>
